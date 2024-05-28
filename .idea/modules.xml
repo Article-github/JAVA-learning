@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaProjectCode.iml" filepath="$PROJECT_DIR$/.idea/JavaProjectCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSECode/chapter5/chapter5.iml" filepath="$PROJECT_DIR$/javaSECode/chapter5/chapter5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSECode/chapter6/chapter6.iml" filepath="$PROJECT_DIR$/javaSECode/chapter6/chapter6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaSECode/javaSECode.iml" filepath="$PROJECT_DIR$/javaSECode/javaSECode.iml" />
+    </modules>
+  </component>
+</project>
